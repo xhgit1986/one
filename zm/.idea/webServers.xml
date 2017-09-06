@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8dbb1fff-5001-4925-9d2e-8a9ee5aa631b" name="text" url="http://localhost/zm">
+        <fileTransfer port="0" mountedRoot="D:\PHPWAMP_8.8.8.8IN\wwwroot\zm" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
